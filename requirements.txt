@@ -1,0 +1,15 @@
+fastapi[all]
+sqlalchemy
+alembic
+asyncpg
+greenlet
+pyjwt[crypto]
+python-dotenv
+pandas
+openpyxl
+aiofiles
+jinja2
+passlib
+xlsxwriter
+gunicorn
+pytz
