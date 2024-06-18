@@ -18,7 +18,7 @@ algorithm: str = "RS256"
 API_KEYS = {
     os.getenv("API_KEY_1"): "Key1",
     os.getenv("API_KEY_2"): "Key2",
-    os.getenv("api_key_for_jinja"): "Key2",
+    os.getenv("api_key_for_jinja"): "Key3",
 }
 
 api_key = os.getenv("api_key_for_jinja")
